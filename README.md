@@ -8,7 +8,7 @@ Autor: @paulohaa
 Curso preparado com o objetivo de permitir a utilização de pacotes Python de análise de dados a profissionais que não tenham formação como desenvolvedores de software.
 
 
-#**[Setup inicial]("1 - Setup inicial.html")**
+## 1. [Setup inicial]("1 - Setup inicial.html)
 
  
 ## Tópicos abordados:
