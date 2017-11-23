@@ -9,7 +9,7 @@ Curso preparado com o objetivo de permitir a utilização de pacotes Python de a
 
 ## Referências
 
-* [Curso de Data Science ministrado por Letícia Portella na Python Brasil 2017](https://github.com/leportella/tutorial-modulos-data-science)
+* [Curso de Data Science ministrado por Letícia Portella e Jéssica Temporal na Python Brasil 2017](https://github.com/leportella/tutorial-modulos-data-science)
 
 
 ## 1. [Setup inicial](1%20-%20Setup%20inicial.ipynb)
