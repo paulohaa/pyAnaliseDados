@@ -9,8 +9,9 @@ Curso preparado com o objetivo de permitir a utilização de pacotes Python de a
 
 ## Referências
 
-* [Curso de Data Science](https://github.com/leportella/tutorial-modulos-data-science) ministrado por [Letícia Portella](https://github.com/leportella) e [Jessica Temporal](https://github.com/jtemporal) na Python Brasil 2017
+* [Curso de Data Science](https://github.com/leportella/tutorial-modulos-data-science) ministrado por [Letícia Portella](https://github.com/leportella) e [Jessica Temporal](https://github.com/jtemporal) na [Python Brasil 2017](https://github.com/pythonbrasil/talks/tree/master/pythonbrasil-13)
 
+* [Curso de raspagem de dados para jornalistas](https://github.com/fmasanori/treinamento) ministrado por [Fernando Masanori](https://github.com/fmasanori) na [Python Brasil 2017](https://github.com/pythonbrasil/talks/tree/master/pythonbrasil-13)
 
 ## 1. [Setup inicial](1%20-%20Setup%20inicial.ipynb)
 
