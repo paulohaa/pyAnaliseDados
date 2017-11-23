@@ -7,6 +7,10 @@ Autor: @paulohaa
 
 Curso preparado com o objetivo de permitir a utilização de pacotes Python de análise de dados a profissionais que não tenham formação como desenvolvedores de software.
 
+## Referências
+
+* [Curso de Data Science ministrado por Letícia Portella na Python Brasil 2017] (https://github.com/leportella/tutorial-modulos-data-science)
+
 
 ## 1. [Setup inicial](1%20-%20Setup%20inicial.ipynb)
 
